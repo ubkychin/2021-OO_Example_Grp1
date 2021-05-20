@@ -1,0 +1,16 @@
+C:\Users\anguyen\Projects\OO_Example_Grp1\bin\Debug\net5.0\OO_Example_Grp1.exe
+C:\Users\anguyen\Projects\OO_Example_Grp1\bin\Debug\net5.0\OO_Example_Grp1.deps.json
+C:\Users\anguyen\Projects\OO_Example_Grp1\bin\Debug\net5.0\OO_Example_Grp1.runtimeconfig.json
+C:\Users\anguyen\Projects\OO_Example_Grp1\bin\Debug\net5.0\OO_Example_Grp1.runtimeconfig.dev.json
+C:\Users\anguyen\Projects\OO_Example_Grp1\bin\Debug\net5.0\OO_Example_Grp1.dll
+C:\Users\anguyen\Projects\OO_Example_Grp1\bin\Debug\net5.0\ref\OO_Example_Grp1.dll
+C:\Users\anguyen\Projects\OO_Example_Grp1\bin\Debug\net5.0\OO_Example_Grp1.pdb
+C:\Users\anguyen\Projects\OO_Example_Grp1\obj\Debug\net5.0\OO_Example_Grp1.csprojAssemblyReference.cache
+C:\Users\anguyen\Projects\OO_Example_Grp1\obj\Debug\net5.0\OO_Example_Grp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anguyen\Projects\OO_Example_Grp1\obj\Debug\net5.0\OO_Example_Grp1.AssemblyInfoInputs.cache
+C:\Users\anguyen\Projects\OO_Example_Grp1\obj\Debug\net5.0\OO_Example_Grp1.AssemblyInfo.cs
+C:\Users\anguyen\Projects\OO_Example_Grp1\obj\Debug\net5.0\OO_Example_Grp1.csproj.CoreCompileInputs.cache
+C:\Users\anguyen\Projects\OO_Example_Grp1\obj\Debug\net5.0\OO_Example_Grp1.dll
+C:\Users\anguyen\Projects\OO_Example_Grp1\obj\Debug\net5.0\ref\OO_Example_Grp1.dll
+C:\Users\anguyen\Projects\OO_Example_Grp1\obj\Debug\net5.0\OO_Example_Grp1.pdb
+C:\Users\anguyen\Projects\OO_Example_Grp1\obj\Debug\net5.0\OO_Example_Grp1.genruntimeconfig.cache
